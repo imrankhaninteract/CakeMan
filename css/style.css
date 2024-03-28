@@ -40,7 +40,9 @@ body {
   margin: 0 auto;
   background-color: var(--color-creamson);
 }
-
+.userImg{
+  border-radius: 50%;
+}
 a {
   text-decoration: none;
   color: inherit;
